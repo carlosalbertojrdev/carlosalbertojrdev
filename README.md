@@ -1,6 +1,6 @@
 # Hello, I'm Carlos Alberto Jr
 
-💻 **Senior Software Engineer | Java & Spring Boot Specialist**  
+💻 **Senior Software Engineer | Java & Spring Boot**  
 🚀 Passionate about backend architecture and developer experience.  
 
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosalbertojrdev&show_icons=true&theme=tokyonight)
