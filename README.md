@@ -8,6 +8,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalbertojrdev&layout=compact&theme=tokyonight)
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://linkedin.com/in/YOUR-LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/carlosalbertojrdev)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlosalbertojrdev)  
  
